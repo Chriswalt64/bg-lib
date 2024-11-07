@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\bg-lib.props" />
+</Project>
