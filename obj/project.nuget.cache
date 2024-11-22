@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oOS+qywe1sud6Wq8V+fRSszMmaAU5YZcB/NFiaLO8YAsBqJATHPmY86x9K0QVHL2ttz3XBYR0RoCm1e4xumqxQ==",
+  "dgSpecHash": "R9F4gcChpegSfcpl3o/re/KXHFQ8ZNX19NFnw4LuevBRRcJakmkgf9i62onl9L8sePZIfiQRuBtXUX84hLUguQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\cawa244\\Code\\bg-library\\bg-lib\\bg-lib.csproj",
+  "projectFilePath": "C:\\Users\\cawa244\\Code\\bg-library\\bg-lib\\bg-lib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cawa244\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\cawa244\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

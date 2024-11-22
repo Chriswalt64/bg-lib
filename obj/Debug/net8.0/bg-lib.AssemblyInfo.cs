@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bg-lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cb85ebb43a547e0ec9918c8aba10b97ecfb9513")]
 [assembly: System.Reflection.AssemblyProductAttribute("bg-lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bg-lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

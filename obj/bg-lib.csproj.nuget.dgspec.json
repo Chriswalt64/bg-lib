@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cawa244\\Code\\bg-library\\bg-lib\\bg-lib.csproj": {}
+    "C:\\Users\\cawa244\\Code\\bg-library\\bg-lib\\bg-lib.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cawa244\\Code\\bg-library\\bg-lib\\bg-lib.csproj": {
+    "C:\\Users\\cawa244\\Code\\bg-library\\bg-lib\\bg-lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cawa244\\Code\\bg-library\\bg-lib\\bg-lib.csproj",
+        "projectUniqueName": "C:\\Users\\cawa244\\Code\\bg-library\\bg-lib\\bg-lib.csproj",
         "projectName": "bg-lib",
-        "projectPath": "c:\\Users\\cawa244\\Code\\bg-library\\bg-lib\\bg-lib.csproj",
+        "projectPath": "C:\\Users\\cawa244\\Code\\bg-library\\bg-lib\\bg-lib.csproj",
         "packagesPath": "C:\\Users\\cawa244\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cawa244\\Code\\bg-library\\bg-lib\\obj\\",
+        "outputPath": "C:\\Users\\cawa244\\Code\\bg-library\\bg-lib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -21,17 +21,17 @@ public static class SeedData
                     }
                     context.Game.AddRange(
                         new Game { Id = "CCC202409"     },
-new Game { Id = "20905          },
-new Game { Id = "20651          },
-new Game { Id = "20557          },
-new Game { Id = "20903          },
-new Game { Id = "20246          },
-new Game { Id = "CCC202411      },
-new Game { Id = "20913          },
-new Game { Id = "20899          },
-new Game { Id = "20729          },
-new Game { Id = "CCC2024 - 0017 }
-                    )
+new Game { Id = "20905"          },
+new Game { Id = "20651"          },
+new Game { Id = "20557"          },
+new Game { Id = "20903"          },
+new Game { Id = "20246"          },
+new Game { Id = "CCC202411"      },
+new Game { Id = "20913"          },
+new Game { Id = "20899"          },
+new Game { Id = "20729"          },
+new Game { Id = "CCC2024 - 0017" }
+                    );
                 }
     }
 }

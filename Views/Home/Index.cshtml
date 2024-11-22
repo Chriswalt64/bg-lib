@@ -1,8 +1,15 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Main Menu";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Welcome to BG-Lib</h1>
+    <h3>Please select from the options below.</h3>
+	
+    <form method="get" action="@Url.Action("Index", "Game")">
+    	<button type="submit">Go to Games</button>
+    </form>
+
+
+
 </div>
