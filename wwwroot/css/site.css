@@ -2,8 +2,27 @@ html {
   font-size: 14px;
 }
 
+@media (prefers-color-scheme: no-preference) {
+  body, header {
+    background-color: #333;
+    color: #FFF;
+  }
+}
+@media (prefers-color-scheme: light) {
+  body, header {
+    background-color: #FFF;
+    color: #333;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  body, header{
+    background-color: #333;
+    color: #FFF;
+  }
+}
+
 @media (min-width: 768px) {
-  html {
+  body {
     font-size: 16px;
   }
 }
